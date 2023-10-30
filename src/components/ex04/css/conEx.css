@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.con_wrap {
+  width: 1100px;
+  height: 500px;
+  display: flex;
+  justify-content: space-between;
+  margin: 150px auto;
+}
+.con {
+  width: 300px;
+  height: 500px;
+}
+.img_box {
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+}
